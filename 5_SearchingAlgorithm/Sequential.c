@@ -11,7 +11,6 @@ int sequentialSearch(int list[],int totalElement,int findNum){
     return i;
 }
 
-
 void main(){
     int num,i,index;
     int *array;
