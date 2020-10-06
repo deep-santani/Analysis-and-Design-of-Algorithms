@@ -3,7 +3,7 @@
 In this repository you can get all the ADA Subject code which is usefull for your study.
 In Nuttshell you study starting upto ending ADA subject code.
 
-<h1>Java Uses </h1>
+<h1>All Algo </h1>
 <ul>
   <li>Binary Tree</li>
   <li>Bubble Sort</li>
